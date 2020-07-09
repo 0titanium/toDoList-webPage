@@ -1,4 +1,4 @@
 # toDoList-webPage
 ---
-permalink:/toDoListApp.html
+permalink: /toDoListApp.html
 ---
